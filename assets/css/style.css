@@ -7,7 +7,7 @@
     width: 20px
 } 
 
-#header1 {
+#header {
     border-bottom:solid;
 border-color:#287EC7;
 overflow:auto;
@@ -32,6 +32,8 @@ overflow:auto;
     padding-right: 2px;
     overflow:auto;
     background-color: white;_
+    float:right;
+
 
 }
 
@@ -40,6 +42,7 @@ overflow:auto;
     border-left: solid;
     overflow:auto;
     padding-right: 2px;
+    float:right;
 
 }
 
@@ -49,6 +52,7 @@ overflow:auto;
     overflow:auto;
     padding-right: 2px;
     border-left: solid;
+    float:right;
 
 }
 
@@ -86,4 +90,7 @@ overflow:auto;
 
 .float{
     float:right;
+}
+h1{
+    
 }
